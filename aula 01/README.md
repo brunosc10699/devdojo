@@ -4,9 +4,11 @@
 
 Este repositório tem por objetivo registrar o aprendizado nas aulas da "[Maratona Java Virado no Jiraya](https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW)" do canal [DevDojo](https://www.youtube.com/c/DevDojoBrasil).
 
-### Aula 00
+### Aula 01
 
-https://www.youtube.com/watch?v=VKjFuX91G5Q&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=1
+https://www.youtube.com/watch?v=ooCqalwSpuE&list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW&index=2
 
-Boas-vindas e apresentação do curso.
+- O que esperar do curso
+- Lista de Exercícios
+- Certificado
 
