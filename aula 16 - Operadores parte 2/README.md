@@ -35,7 +35,7 @@ Menor ou igual a
 
 ```
 byte number1 = 5;
-long number2 = 5l;
+long number2 = 5L;
 if (number1 <= number2) System.out.println(number1 + " é menor ou igual a " + number2);
 ```
 
